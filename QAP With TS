@@ -2,7 +2,7 @@ import numpy as np
 import random
 
 num_iter = 100 #döngü sayısı
-tabu_len = 5 # tabu listesi uzunlugu
+tabu_len = 18 # tabu listesi uzunlugu
 # lst_len = random.randint(7, 20) # dynamic list size
 sol_len = 20 #çözüm arrayinin uzunluğu
 N = 190 #max komşu çözüm kombinasyon sayısı
