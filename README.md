@@ -1,4 +1,4 @@
-Implementation of Tabu Search optimization to solve the Quadratic Assignment Problem (QAP)
+#Implementation of Tabu Search optimization to solve the Quadratic Assignment Problem (QAP)
  
 This code is an implementation of Tabu Search to solve the Quadratic Assignment Problem (QAP) test problems of Nugent et al (20 department). The objective is to minimize flow costs between the placed departments. The flow cost is (flow * distance), where both flow and distance are symmetric between any given pair of departments.
 
